@@ -4,13 +4,6 @@ Dois códigos em linguagem C para o cálculo do fatorial de um número não nega
 
 Linguagem utilizada: C
 
-## Para compilar o arquivo
+## Compilar e executar
 
-A partir do diretório raiz, escolha uma versão: iterativa ou recursiva. Em seguida, digite o seguinte na linha de comando:
-
-> gcc main.c -o main
-
-E então:
-
-> ./main
-
+A partir do diretório raiz, escolha uma versão: iterativa ou recursiva. Em seguida, digite na linha de comando `make` e em seguida `make run`.
