@@ -1,9 +1,7 @@
-# Fatorial
+# Programa Fatorial
 
 Dois códigos em linguagem C para o cálculo do fatorial de um número não negativo, sendo um deles iterativo e o outro recursivo.
 
-Linguagem utilizada: C
+## Execução do programa
 
-## Compilar e executar
-
-A partir do diretório raiz, escolha uma versão: iterativa ou recursiva. Em seguida, digite na linha de comando `make` e em seguida `make run`.
+A partir do diretório raiz, basta executar no terminal `./run.sh`. Se necessário, execute também `chmod u+x run.sh` para torná-lo um executável.
